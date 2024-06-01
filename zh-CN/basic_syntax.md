@@ -15,7 +15,10 @@ void main (string[] args){
 ## 关键字
 在上面的程序当中，`import`、`void` 等都是关键字。
 **D语言** 的关键字有：
-|----------     |----------     |----------     |----------     |----------     |
+
+
+|               |               |               |               |               |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |abstract       |alias          |align          |asm            |assert         |
 |auto           |body           |bool           |byte           |case           |
 |cast           |catch          |char           |class          |const          |
