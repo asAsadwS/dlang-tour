@@ -98,3 +98,6 @@ class N : M {
 
 ## 枚举
 
+
+- 上一页：[第一个程序](hello_world.md)
+- 下一页：[模板](template.md)

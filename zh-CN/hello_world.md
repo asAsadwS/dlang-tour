@@ -17,5 +17,5 @@ int main (string[] args){
 ```
 Hello world!
 ```
-- 上一页：[第一个程序](hello_world.md)
+- 上一页：[环境配置](environment.md)
 - 下一页：[基本语法](basic_syntax.md)
